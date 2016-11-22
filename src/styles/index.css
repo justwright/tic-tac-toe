@@ -1,0 +1,14 @@
+/*body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}*/
+
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
